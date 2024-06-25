@@ -1,0 +1,47 @@
+[33mcommit 83ad3cc6912782ffbe28c126bd064b2330ffd695[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 16:12:18 2024 +0800
+
+    add freedom wall controller
+
+[33mcommit 23f2f3a9d3b76e5bc36f5c56d25c314cc42559a3[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 14:48:41 2024 +0800
+
+    remove some entities at entities folder
+
+[33mcommit 61ca615ef2989c840d575e7932ea6d1fe478c9bd[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 14:40:44 2024 +0800
+
+    adding several files
+
+[33mcommit f5e15d62145e883d17afda571acd2ecac2ef73f9[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 14:13:14 2024 +0800
+
+    added gitignore prittier and turbo
+
+[33mcommit 3748e774d0ae1af54b45b0f8d02204d4773b0550[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 14:10:36 2024 +0800
+
+    added package.json
+
+[33mcommit 6b42f404e336d4283f0ff9bb5aaa02b547b9676a[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 14:08:06 2024 +0800
+
+    added dfx.json
+
+[33mcommit 77bb97570690fdd270b076a261b9662180654a8e[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 13:50:58 2024 +0800
+
+    added name and province
+
+[33mcommit cb04038123414a7006b70100b8eef90d71c3e95c[m
+Author: Danjiephantom <blinkzgonzalez@gmail.com>
+Date:   Tue Jun 25 13:47:35 2024 +0800
+
+    first commit

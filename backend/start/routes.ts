@@ -19,7 +19,7 @@ const Route = Router();
 Route.get('/user/me', isAuth, UsersController.me);
 Route.post('/user/register', isAuth, UsersController.register);
 Route.post('/user/update', isAuth, UsersController.update);
-Route.post('/freedomwall/create', isAuth, FreedomWallsController.update);
+Route.post('/freedomwall/create', isAuth, FreedomWallsController.create);
 
 // EVENT
 // Route.post('/event/create', isAuth, EventsController.create);
