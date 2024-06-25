@@ -2,7 +2,7 @@ import { Router } from 'express';
 
 import ApisController from 'App/Controllers/Http/ApisController';
 import UsersController from 'App/Controllers/Http/UsersController';
-
+import FreedomWallsController from 'App/Controllers/FreedomWallsController';
 import isAuth from 'App/Middleware/Auth';
 import EventsController from 'App/Controllers/Http/EventsController';
 import GuestsController from 'App/Controllers/Http/GuestsController';
@@ -19,6 +19,7 @@ const Route = Router();
 Route.get('/user/me', isAuth, UsersController.me);
 Route.post('/user/register', isAuth, UsersController.register);
 Route.post('/user/update', isAuth, UsersController.update);
+Route.post('/freedomwall/create', isAuth, FreedomWallsController.update);
 
 // EVENT
 // Route.post('/event/create', isAuth, EventsController.create);
